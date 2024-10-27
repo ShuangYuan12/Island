@@ -1,0 +1,18 @@
+﻿#unity ignore dir
+/[Ll]ibrary
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs
+/[Pp]ackages
+/[Uu]ser[Ss]ettings
+/.vscode
+
+# unity ignore file
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.tmp
